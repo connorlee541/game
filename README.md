@@ -1,2 +1,1 @@
-# game
-A game
+<h1>Snake game:</h1>
